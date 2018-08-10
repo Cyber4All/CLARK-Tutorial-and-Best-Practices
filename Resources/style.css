@@ -40,6 +40,19 @@ p {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+ol {
+    padding: 10px;
+    margin-left: 50px;
+}
+li {
+    padding: 4px;
+    font-size: 16px;
+}
+a.tableOfContents {
+    text-decoration-line: none;
+    text-decoration-color: blue;
+    cursor: pointer;
+}
 button.navBar {
     -webkit-transition-duration: 0.4s;
     transition-duration: 0.4s;
