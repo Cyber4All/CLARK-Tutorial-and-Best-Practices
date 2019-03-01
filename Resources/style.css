@@ -24,6 +24,7 @@ h1 {
     padding-top: 10px;
     padding-bottom: 10px;
     color: whitesmoke;
+    opacity: none;
 }
 h2 {
     font-size: 24px;
@@ -59,6 +60,7 @@ iframe {
 p.header {
     text-align: center;
     color: whitesmoke;
+    opacity: 1;
 }
 a:link {
     color: #3b608b;
@@ -114,6 +116,12 @@ div.header {
     padding-bottom: 100px;
     width: 100%;
     text-align: center;
+}
+div.header.text_wrapper {
+    background-color: rgba(85,89,94, .6);
+    background-image: none;
+    margin: 0 auto;
+    padding: 30px 0;
 }
 div.picture {
     text-align: center;
