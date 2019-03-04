@@ -54,6 +54,11 @@ a {
     text-decoration-line: none;
     cursor: pointer;
 }
+hr {
+    background-color: #55595e;
+    height: 2px;
+    border: none;
+}
 iframe {
     width: 100%;
     height: 380px;
