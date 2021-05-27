@@ -149,7 +149,7 @@ div.title {
     width: 300px;
     background-color: #3b608b;
     color: whitesmoke;
-    display: felx;
+    display: flex-wrap;
     text-align: center;
     font-size: 20px;
     padding: 225px 0;
